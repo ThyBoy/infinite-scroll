@@ -1,0 +1,11 @@
+.image-page{
+  margin: 3.5%;
+  .page-title {
+    font-size: 2vw;
+    font-weight: 700;
+  }
+  .list-container{
+    overflow-x: auto;
+    overflow-y: hidden;
+  }
+}
